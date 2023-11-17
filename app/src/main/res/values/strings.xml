@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeworkNine</string>
+    <string name="all">All</string>
+    <string name="party">Party</string>
+    <string name="camping">Camping</string>
+    <string name="ryan_gosling">Ryan Gosling</string>
+    <string name="fight_club">Fight Club</string>
+    <string name="blade_runner">Blade Runner</string>
+    <string name="belt_suit_blazer">Belt suit blazer</string>
+    <string name="_143">$143</string>
+</resources>
